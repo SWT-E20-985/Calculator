@@ -13,7 +13,7 @@ namespace Calculator
             Console.WriteLine("Hello World!");
 
             Calculator calc = new Calculator();
-
+            //ændret (test)
             calc.Add(10, 5);
             calc.Add(10);
             Console.WriteLine("plus: {0}", calc.Accumulator);
