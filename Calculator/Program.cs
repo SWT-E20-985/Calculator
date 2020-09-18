@@ -16,6 +16,7 @@ namespace Calculator
             //ændret (test)
             //ændring 2 (test)
             //ændring 3 for jenkins (test)
+            //Ændring 4 - Koden er pushed fra Abdullahs PC
             calc.Add(10, 5);
             calc.Add(10);
             Console.WriteLine("plus: {0}", calc.Accumulator);

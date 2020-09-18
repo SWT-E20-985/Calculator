@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj": {}
+    "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\source\\repos\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\Calculator\\Calculator\\obj\\",
+        "projectPath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\Abdullah Muzaffari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdullah Muzaffari\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,21 +66,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj": {
+    "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj",
         "projectName": "NUnitTestProject1_Calculator",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\obj\\",
+        "projectPath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj",
+        "packagesPath": "C:\\Users\\Abdullah Muzaffari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\NUnitTestProject1_Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdullah Muzaffari\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,8 +93,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\andre\\source\\repos\\Calculator\\Calculator\\Calculator.csproj": {
-                "projectPath": "C:\\Users\\andre\\source\\repos\\Calculator\\Calculator\\Calculator.csproj"
+              "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj": {
+                "projectPath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj"
               }
             }
           }
@@ -140,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
