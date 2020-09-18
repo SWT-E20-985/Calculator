@@ -17,6 +17,7 @@ namespace Calculator
             //ændring 2 (test)
             //ændring 3 for jenkins (test)
             //Ændring 4 - Pushed fra min (Abdullah) PC
+            //andet forsøg med gitignore
             calc.Add(10, 5);
             calc.Add(10);
             Console.WriteLine("plus: {0}", calc.Accumulator);
