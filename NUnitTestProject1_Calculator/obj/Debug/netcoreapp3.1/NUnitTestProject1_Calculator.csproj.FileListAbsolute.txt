@@ -98,3 +98,6 @@ C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\bin\Debug\ne
 C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
 C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
 C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
+C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\obj\Debug\netcoreapp3.1\NUnitTestProject1_Calculator.csproj.CoreCompileInputs.cache

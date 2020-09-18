@@ -8,58 +8,66 @@ namespace NUnitTestProject1_Calculator
     [TestFixture]
     public class Tests
     {
-        [Test]
-        public void UnitTestAdd()
+        [TestCase(10, 2, 14)]
+        [TestCase(35, 6, 47)]
+        [TestCase(22, 3, 28)]
+        public void UnitTestAdd(double p1, double p2, double result)
         {
             var uut = new Calculator.Calculator();
 
-            uut.Add(10,5);
-            uut.Add(10);
+            uut.Add(p1,p2);
+            uut.Add(p2);
 
-            Assert.That(uut.Accumulator, Is.EqualTo(25));
+            Assert.That(uut.Accumulator, Is.EqualTo(result));
 
         }
 
-        [Test]
-        public void UnitTestSubtract()
+        [TestCase(10, 2, 6)]
+        [TestCase(35, 6, 23)]
+        [TestCase(22, 3, 16)]
+        public void UnitTestSubtract(double p1, double p2, double result)
         {
             var uut = new Calculator.Calculator();
 
-            uut.Subtract(10, 5);
-            uut.Subtract(10);
+            uut.Subtract(p1, p2);
+            uut.Subtract(p2);
 
-            Assert.That(uut.Accumulator, Is.EqualTo(-5));
+            Assert.That(uut.Accumulator, Is.EqualTo(result));
 
         }
 
 
-        [Test]
-        public void UnitTestMultiply()
+        [TestCase(10, 2, 40)]
+        [TestCase(1, 5, 25)]
+        [TestCase(4, 6, 144)]
+        public void UnitTestMultiply(double p1, double p2, double result)
         {
             var uut = new Calculator.Calculator();
 
-            uut.Multiply(10, 5);
-            uut.Multiply(10);
+            uut.Multiply(p1, p2);
+            uut.Multiply(p2);
 
-            Assert.That(uut.Accumulator, Is.EqualTo(500));
+            Assert.That(uut.Accumulator, Is.EqualTo(result));
 
         }
 
-        [Test]
-        public void UnitTestPower()
+        [TestCase(10, 2, 10000)]
+        [TestCase(1, 4, 1)]
+        [TestCase(2, 2, 16)]
+        public void UnitTestPower(double p1, double p2, double result)
         {
             var uut = new Calculator.Calculator();
 
-            uut.Power(10, 2);
-            uut.Power(2);
+            uut.Power(p1, p2);
+            uut.Power(p2);
 
-            Assert.That(uut.Accumulator, Is.EqualTo(10000));
+            Assert.That(uut.Accumulator, Is.EqualTo(result));
 
         }
 
         [TestCase(1000,5,40)]
-        [TestCase(1000,7,13)]
-        [TestCase(500,6,35)]
+        [TestCase(400,4,25)]
+        [TestCase(600,5,24)]
         public void UnitTestDivide(double p1,double p2,double result)
         {
             var uut = new Calculator.Calculator();
