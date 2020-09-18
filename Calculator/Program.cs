@@ -14,6 +14,7 @@ namespace Calculator
 
             Calculator calc = new Calculator();
             //ændret (test)
+            //ændring 2 (test)
             calc.Add(10, 5);
             calc.Add(10);
             Console.WriteLine("plus: {0}", calc.Accumulator);
