@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1aOwvZWy8FoI95DROGYWaXAEXnkZO0Y5nRi8wIpP6awEBvoSTIA+bh11hQwI+cPbTVkSrrlLImnNHBUioIiDqg==",
+  "dgSpecHash": "dZif/CJiyVQBLjaE3wgwuu2VM9yPi2trn4pg+BwvAmPjnSOjwLYBmdHQDKb6YQZqVPi/mVcbuMvAanPI/EPdcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdullah Muzaffari\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\Abdullah Muzaffari\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

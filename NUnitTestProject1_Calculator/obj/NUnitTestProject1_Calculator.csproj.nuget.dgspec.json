@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj": {}
+    "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Abdullah Muzaffari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdullah Muzaffari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj": {
+    "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj",
         "projectName": "NUnitTestProject1_Calculator",
-        "projectPath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj",
+        "projectPath": "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj",
         "packagesPath": "C:\\Users\\Abdullah Muzaffari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\NUnitTestProject1_Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdullah Muzaffari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj": {
-                "projectPath": "C:\\Users\\Abdullah Muzaffari\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj"
+              "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\Calculator\\Calculator.csproj": {
+                "projectPath": "C:\\Users\\Abdullah Muzaffari\\source\\repos\\Calculator\\Calculator\\Calculator.csproj"
               }
             }
           }
