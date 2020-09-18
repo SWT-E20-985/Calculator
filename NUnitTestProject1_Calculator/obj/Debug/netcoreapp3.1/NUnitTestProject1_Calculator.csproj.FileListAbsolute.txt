@@ -1,7 +1,6 @@
 C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\obj\Debug\netcoreapp3.1\NUnitTestProject1_Calculator.csprojAssemblyReference.cache
 C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\obj\Debug\netcoreapp3.1\NUnitTestProject1_Calculator.AssemblyInfoInputs.cache
 C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\obj\Debug\netcoreapp3.1\NUnitTestProject1_Calculator.AssemblyInfo.cs
-C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\obj\Debug\netcoreapp3.1\NUnitTestProject1_Calculator.csproj.CoreCompileInputs.cache
 C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
 C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
 C:\Users\andre\source\repos\Calculator\NUnitTestProject1_Calculator\bin\Debug\netcoreapp3.1\nunit.engine.dll

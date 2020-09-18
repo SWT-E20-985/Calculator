@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CdMsDyri+/04sqH3P4l18tyXYPSlEeg2hx0o1ZdsUsqAU+t9kblyyXkzlBWxFAr3GY4YxIH71te1rnMKZZ+EqA==",
+  "dgSpecHash": "mva0HvK5Enkx8SFK6DU3eSZgKJIPBpT1fHmZJm58RPeTY7DeV5qO820/hYtEYeFiNtKGgXEZrbSMkYbW4a/C3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\andre\\source\\repos\\Calculator\\NUnitTestProject1_Calculator\\NUnitTestProject1_Calculator.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\andre\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\nunitxml.testlogger\\2.1.62\\nunitxml.testlogger.2.1.62.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

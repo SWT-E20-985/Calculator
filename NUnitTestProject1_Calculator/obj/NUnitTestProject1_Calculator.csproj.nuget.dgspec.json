@@ -116,6 +116,10 @@
               "target": "Package",
               "version": "[3.17.0, )"
             },
+            "NunitXml.TestLogger": {
+              "target": "Package",
+              "version": "[2.1.62, )"
+            },
             "nunit": {
               "target": "Package",
               "version": "[3.12.0, )"

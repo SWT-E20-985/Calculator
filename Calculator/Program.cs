@@ -15,6 +15,7 @@ namespace Calculator
             Calculator calc = new Calculator();
             //ændret (test)
             //ændring 2 (test)
+            //ændring 3 for jenkins (test)
             calc.Add(10, 5);
             calc.Add(10);
             Console.WriteLine("plus: {0}", calc.Accumulator);

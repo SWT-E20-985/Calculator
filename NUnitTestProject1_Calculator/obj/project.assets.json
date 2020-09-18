@@ -458,6 +458,12 @@
           "build/netcoreapp2.1/NUnit3TestAdapter.props": {}
         }
       },
+      "NunitXml.TestLogger/2.1.62": {
+        "type": "package",
+        "build": {
+          "build/netstandard1.0/NUnitXml.TestLogger.props": {}
+        }
+      },
       "runtime.native.System/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1917,6 +1923,21 @@
         "build/netcoreapp2.1/nunit.engine.dll",
         "nunit3testadapter.3.17.0.nupkg.sha512",
         "nunit3testadapter.nuspec"
+      ]
+    },
+    "NunitXml.TestLogger/2.1.62": {
+      "sha512": "ahAktoVVWC86ErnobaI8bKuiYAz76PvcS5FnQv4/EXrXau86CLLHnkzL5rpyZxz+AF9kJle0zQoAZLeZripeGQ==",
+      "type": "package",
+      "path": "nunitxml.testlogger/2.1.62",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll",
+        "build/net45/NUnitXml.TestLogger.props",
+        "build/netstandard1.0/NUnitXml.TestLogger.props",
+        "nunitxml.testlogger.2.1.62.nupkg.sha512",
+        "nunitxml.testlogger.nuspec"
       ]
     },
     "runtime.native.System/4.3.0": {
@@ -4642,6 +4663,7 @@
       "Calculator >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
       "NUnit3TestAdapter >= 3.17.0",
+      "NunitXml.TestLogger >= 2.1.62",
       "nunit >= 3.12.0"
     ]
   },
@@ -4693,6 +4715,10 @@
           "NUnit3TestAdapter": {
             "target": "Package",
             "version": "[3.17.0, )"
+          },
+          "NunitXml.TestLogger": {
+            "target": "Package",
+            "version": "[2.1.62, )"
           },
           "nunit": {
             "target": "Package",
